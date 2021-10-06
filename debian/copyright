@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: qtshadertools-everywhere-src
+Source: https://download.qt.io/archive/qt/*/submodules/
+
+Files: *
+Copyright: 2020-2021 The Qt Company Ltd.
+License: GPL-3
+
+Files: debian/*
+Copyright: 2021 Patrick Franz <deltaone@debian.org>
+License: GPL-3
