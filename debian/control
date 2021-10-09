@@ -31,6 +31,7 @@ Description: Qt 6 shader tools module
 
 Package: qt6-shader-baker
 Architecture: any
+Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt 6 shader baker
  Qt is a cross-platform C++ application framework. Qt's primary feature
