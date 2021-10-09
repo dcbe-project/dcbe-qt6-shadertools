@@ -42,7 +42,9 @@ Package: libqt6shadertools6-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: same
-Depends: libqt6shadertools6 (= ${binary:Version}), ${misc:Depends}
+Depends: libqt6shadertools6 (= ${binary:Version}),
+         qt6-shader-baker (= ${binary:Version}),
+         ${misc:Depends},
 Description: Qt 6 shader tools module - development files
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
