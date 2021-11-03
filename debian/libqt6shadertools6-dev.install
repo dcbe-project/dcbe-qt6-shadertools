@@ -23,5 +23,4 @@ usr/lib/${DEB_HOST_MULTIARCH}/libQt6ShaderTools.prl
 usr/lib/${DEB_HOST_MULTIARCH}/libQt6ShaderTools.so
 usr/lib/${DEB_HOST_MULTIARCH}/metatypes/qt6shadertools_none_metatypes.json
 usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_shadertools.pri
-usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_shadertools_private.pri
 usr/share/qt6/modules/ShaderTools.json
