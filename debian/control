@@ -10,8 +10,8 @@ Build-Depends: cmake (>= 3.18~),
                ninja-build,
                pkg-config,
                pkg-kde-tools,
-               qt6-base-dev (>= 6.2.0+dfsg~),
-               qt6-base-private-dev (>= 6.2.0+dfsg~),
+               qt6-base-dev (>= 6.2.1+dfsg~),
+               qt6-base-private-dev (>= 6.2.1+dfsg~),
 Standards-Version: 4.6.0
 Homepage: https://www.qt.io/developers/
 Rules-Requires-Root: no
