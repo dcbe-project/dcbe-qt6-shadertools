@@ -1,5 +1,8 @@
 qt6-shadertools (6.2.2-2) UNRELEASED; urgency=medium
 
+  [ Patrick Franz ]
+  * Upload to unstable.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 15 Feb 2022 21:51:54 +0100
 
 qt6-shadertools (6.2.2-1) experimental; urgency=medium
