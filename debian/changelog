@@ -1,3 +1,7 @@
+qt6-shadertools (6.2.4-3) UNRELEASED; urgency=medium
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 22 Apr 2022 19:55:55 +0200
+
 qt6-shadertools (6.2.4-2) experimental; urgency=medium
 
   [ Patrick Franz ]
