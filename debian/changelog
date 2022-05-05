@@ -1,3 +1,10 @@
+qt6-shadertools (6.2.4-3.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Build without opengl dependencies
+
+ -- Manuel Traut <manuel.traut@mt.com>  Thu, 05 May 2022 11:55:18 +0200
+
 qt6-shadertools (6.2.4-3) unstable; urgency=medium
 
   [ Patrick Franz ]
